@@ -18,7 +18,7 @@ Creating a project
   
   Otherwise you Should simply git project by using command:
    
-    $ git clone 
+    $ git clone https://github.com/mohd-rafey-khan/django-blog.git
     
   To Run:
     using cd go into the project folder where manage.py is present and then run
