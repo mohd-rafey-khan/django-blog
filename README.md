@@ -27,3 +27,12 @@ Creating a project
           
         it will provide link where site is displayed (localhost) 
    
+It Look Like This:
+
+![1](https://user-images.githubusercontent.com/63442338/113502499-443e8a80-954a-11eb-829f-114e33492bdd.png)
+
+Feature:
+    Search any word into searchbar it will display some information about it. 
+    Such as search (ice cream)
+    
+    
