@@ -35,4 +35,7 @@ Feature:
     Search any word into searchbar it will display some information about it. 
     Such as search (ice cream)
     
+ ![2](https://user-images.githubusercontent.com/63442338/113502579-ce86ee80-954a-11eb-845f-db5962a9c34e.png)
+
+     Banner slider image Will also change in every search
     
